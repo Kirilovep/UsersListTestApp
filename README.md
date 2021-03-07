@@ -4,7 +4,7 @@
 ## Features:
   - List of users.
   - Save users to local storage.
-  - Detailed screen of the movie user.
+  - Detailed screen of the user.
   
 ## Screenshots
 <table>
