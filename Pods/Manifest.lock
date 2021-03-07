@@ -1,0 +1,25 @@
+PODS:
+  - Kingfisher (6.1.1)
+  - PhoneNumberKit (3.3.3):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.3)
+    - PhoneNumberKit/UIKit (= 3.3.3)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.3)
+  - PhoneNumberKit/UIKit (3.3.3):
+    - PhoneNumberKit/PhoneNumberKitCore
+
+DEPENDENCIES:
+  - Kingfisher
+  - PhoneNumberKit
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - PhoneNumberKit
+
+SPEC CHECKSUMS:
+  Kingfisher: 676d63307fbef6ed5d5ed400bff36983480d7500
+  PhoneNumberKit: 4ce83273551c4d2ae10b7361162f4283dd02835f
+
+PODFILE CHECKSUM: 26c3713d3c1cfc3de81a789775e888cfc06b900e
+
+COCOAPODS: 1.10.1
